@@ -25,6 +25,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install & Start Ollama (Local Llama AI)
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          ollama serve > ollama.log 2>&1 &
+          sleep 5
+          ollama pull llama3.2:1b
+
       - name: Install Cloudflared
         run: |
           wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
@@ -57,7 +64,7 @@ jobs:
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           
           cat << EOF > README.md
-          # 🌟 LYRA AI - Llama Engine
+          # 🌟 LYRA AI - Local Permanent Engine
           **Created by:** Muhammad Taqi
 
           ---
@@ -66,12 +73,12 @@ jobs:
           👉 **[Click Here to Open Lyra AI]($TUNNEL_URL)**
           
           * **Direct Link:** \`$TUNNEL_URL\`
-          * **Engine:** \`Llama-3.3-70B\`
+          * **Engine:** \`Local Ollama Llama 3.2\`
           * **Last Restarted:** \`$TIMESTAMP\`
-          * **Status:** 🟢 Active (Auto-restarts every 5 hours)
+          * **Status:** 🟢 Active (100% Free & Permanent)
 
           ---
-          *Powered by FastAPI, TryCloudflare, and GitHub Actions.*
+          *Powered by FastAPI, Ollama, TryCloudflare, and GitHub Actions.*
           EOF
 
           git add README.md
@@ -80,5 +87,5 @@ jobs:
 
       - name: Keep Server Alive
         run: |
-          echo "Lyra Llama Tunnel is active..."
+          echo "Lyra Local Ollama Tunnel is active..."
           sleep 17000
