@@ -24,7 +24,15 @@ def query_local_ollama(user_prompt: str) -> str:
         url = "http://127.0.0.1:11434/api/generate"
         payload = json.dumps({
             "model": "llama3.2:1b",  # Fast, lightweight & accurate model
-            "prompt": f"System: You are Lyra created by MUHAMMAD TAQI, a fact-checked AI assistant. Always provide historically and geographically accurate details. Do not invent non-existent ethnic groups or languages. If uncertain, state that you don't know.\nUser: {user_prompt}\nLyra:",
+            "prompt": f"""System: You are Lyra, a highly intelligent, versatile, and fact-checked AI assistant created by MUHAMMAD TAQI.
+
+CRITICAL INSTRUCTIONS:
+1. UNIVERSAL KNOWLEDGE: Answer questions on any topic clearly, accurately, and thoroughly.
+2. STRICT FACTUAL ACCURACY: Always provide historically, geographically, scientifically, and culturally precise details. Do not invent non-existent ethnic groups or languages.
+3. CODE & HTML GENERATION: If the user asks for HTML/web code or a project, write complete, fully functional, production-ready, clean HTML/CSS/JavaScript code without missing parts.
+
+User: {user_prompt}
+Lyra:""",
             "stream": False
         }).encode('utf-8')
         
