@@ -1,15 +1,15 @@
-# 🌟 LYRA AI - Llama Engine
+# 🌟 LYRA AI - Local Permanent Engine
 **Created by:** Muhammad Taqi
 
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://consent-substitute-occasional-suddenly.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://registrar-corrections-away-sponsorship.trycloudflare.com)**
 
-* **Direct Link:** `https://consent-substitute-occasional-suddenly.trycloudflare.com`
-* **Engine:** `Llama-3.3-70B`
-* **Last Restarted:** `2026-09-24 12:05:47 UTC`
-* **Status:** 🟢 Active (Auto-restarts every 5 hours)
+* **Direct Link:** `https://registrar-corrections-away-sponsorship.trycloudflare.com`
+* **Engine:** `Local Ollama Llama 3.2`
+* **Last Restarted:** `2026-09-24 12:13:04 UTC`
+* **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
-*Powered by FastAPI, TryCloudflare, and GitHub Actions.*
+*Powered by FastAPI, Ollama, TryCloudflare, and GitHub Actions.*
