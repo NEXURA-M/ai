@@ -24,7 +24,17 @@ def query_local_ollama(user_prompt: str) -> str:
         url = "http://127.0.0.1:11434/api/generate"
         payload = json.dumps({
             "model": "llama3.2:1b",  # Fast, lightweight & accurate model
-            "prompt": f"System: You are Lyra, a modern AI created by Muhammad Taqi. Be helpful and concise.\nUser: {user_prompt}\nLyra:",
+            "prompt": f"""System: You are Lyra, an advanced, highly accurate, and fact-checked AI assistant created by Muhammad Taqi.
+
+CRITICAL INSTRUCTIONS FOR ACCURACY:
+1. STRICT FACTUAL ACCURACY: Always provide historically, geographically, scientifically, and culturally precise details.
+2. NO HALLUCINATION / NO GUESSING: Never fabricate, invent, or assume any facts, ethnic groups, locations, languages, or definitions.
+3. ADMIT UNCERTAINTY: If you are not 100% confident or if the information is ambiguous, explicitly state: "I do not have enough verified data to answer this accurately."
+4. CROSS-CHECK GEOGRAPHY & HISTORY: Ensure all location boundaries, borders, regions, and historical dates are completely authentic before answering.
+5. NO FICTIONAL MIX-UPS: Do not mix different entities, cultures, or regional items together.
+
+User: {user_prompt}
+Lyra:""",
             "stream": False
         }).encode('utf-8')
         
