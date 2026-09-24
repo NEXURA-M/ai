@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://registrar-corrections-away-sponsorship.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://shopzilla-special-size-songs.trycloudflare.com)**
 
-* **Direct Link:** `https://registrar-corrections-away-sponsorship.trycloudflare.com`
+* **Direct Link:** `https://shopzilla-special-size-songs.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-24 12:13:04 UTC`
+* **Last Restarted:** `2026-09-24 12:27:22 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
