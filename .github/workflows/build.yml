@@ -1,15 +1,15 @@
 name: Deploy Lyra AI & Auto Update README
 
 on:
-  workflow_dispatch: # Manual run button
+  workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * *' # Har 5 ghante baad auto restart hoga
+    - cron: '0 */5 * * *'
 
 jobs:
   run-lyra:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # README.md update aur commit karne ki permission
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -30,36 +30,33 @@ jobs:
           wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
           sudo dpkg -i cloudflared-linux-amd64.deb
 
-      - name: Start Lyra Server & Capture Tunnel URL
+      - name: Start Lyra Server & Tunnel
         run: |
-          # FastAPI Server ko background mein start karein
+          # Start FastAPI Server
           nohup uvicorn app:app --host 127.0.0.1 --port 8000 > server.log 2>&1 &
           sleep 5
 
-          # TryCloudflare Tunnel run karke URL ko output log file mein save karein
+          # Start Cloudflare Tunnel
           cloudflared tunnel --url http://127.0.0.1:8000 > cloudflare.log 2>&1 &
-          
-          # URL generate hone tak wait karein
-          echo "Waiting for Cloudflare Tunnel URL..."
+          echo "Waiting for Tunnel URL..."
           sleep 12
 
-          # Cloudflare Log file se trycloudflare.com URL extract karein
+          # Extract URL
           TUNNEL_URL=$(grep -o 'https://[-a-zA-Z0-9@:%._\+~#=]\+\.trycloudflare\.com' cloudflare.log | head -n 1)
           
           if [ -z "$TUNNEL_URL" ]; then
-            echo "Error: Cloudflare URL generate nahi ho saka!"
+            echo "Error: Tunnel URL not found!"
             exit 1
           fi
 
-          echo "Generated URL: $TUNNEL_URL"
           echo "TUNNEL_URL=$TUNNEL_URL" >> $GITHUB_ENV
+          echo "Live URL: $TUNNEL_URL"
 
       - name: Update README.md with New URL
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]"
 
-          # README.md update karne ka logic
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           
           cat << EOF > README.md
@@ -79,7 +76,12 @@ jobs:
           *Powered by FastAPI, TryCloudflare, and GitHub Actions.*
           EOF
 
-          # GitHub par auto-commit aur push karein
           git add README.md
           git commit -m "Auto-update Lyra Tunnel URL [$TIMESTAMP]" || exit 0
           git push
+
+      - name: Keep Server Alive
+        run: |
+          # Action ko 4.8 ghante tak alive rakhein taakay tunnel close na ho
+          echo "Lyra Tunnel is active and running..."
+          sleep 17000
