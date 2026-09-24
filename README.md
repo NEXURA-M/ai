@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://shopzilla-special-size-songs.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://samples-barely-ram-encouraging.trycloudflare.com)**
 
-* **Direct Link:** `https://shopzilla-special-size-songs.trycloudflare.com`
+* **Direct Link:** `https://samples-barely-ram-encouraging.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-24 12:27:22 UTC`
+* **Last Restarted:** `2026-09-24 12:32:18 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
