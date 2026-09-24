@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://leu-hit-plant-src.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://soldier-hold-broadband-knows.trycloudflare.com)**
 
-* **Direct Link:** `https://leu-hit-plant-src.trycloudflare.com`
+* **Direct Link:** `https://soldier-hold-broadband-knows.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-24 18:49:00 UTC`
+* **Last Restarted:** `2026-09-24 22:50:48 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
