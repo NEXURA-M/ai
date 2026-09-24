@@ -32,16 +32,13 @@ jobs:
 
       - name: Start Lyra Server & Tunnel
         run: |
-          # Start FastAPI Server
           nohup uvicorn app:app --host 127.0.0.1 --port 8000 > server.log 2>&1 &
           sleep 5
 
-          # Start Cloudflare Tunnel
           cloudflared tunnel --url http://127.0.0.1:8000 > cloudflare.log 2>&1 &
           echo "Waiting for Tunnel URL..."
           sleep 12
 
-          # Extract URL
           TUNNEL_URL=$(grep -o 'https://[-a-zA-Z0-9@:%._\+~#=]\+\.trycloudflare\.com' cloudflare.log | head -n 1)
           
           if [ -z "$TUNNEL_URL" ]; then
@@ -55,12 +52,12 @@ jobs:
       - name: Update README.md with New URL
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           
           cat << EOF > README.md
-          # 🌟 LYRA AI - Unlimited Engine
+          # 🌟 LYRA AI - Llama Engine
           **Created by:** Muhammad Taqi
 
           ---
@@ -69,6 +66,7 @@ jobs:
           👉 **[Click Here to Open Lyra AI]($TUNNEL_URL)**
           
           * **Direct Link:** \`$TUNNEL_URL\`
+          * **Engine:** \`Llama-3.3-70B\`
           * **Last Restarted:** \`$TIMESTAMP\`
           * **Status:** 🟢 Active (Auto-restarts every 5 hours)
 
@@ -82,6 +80,5 @@ jobs:
 
       - name: Keep Server Alive
         run: |
-          # Action ko 4.8 ghante tak alive rakhein taakay tunnel close na ho
-          echo "Lyra Tunnel is active and running..."
+          echo "Lyra Llama Tunnel is active..."
           sleep 17000
