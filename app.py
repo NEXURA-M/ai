@@ -1,4 +1,3 @@
-import os
 import asyncio
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
@@ -7,7 +6,7 @@ from pydantic import BaseModel
 import urllib.request
 import json
 
-app = FastAPI(title="LYRA AI - Ultra Fast Llama Engine")
+app = FastAPI(title="LYRA AI - Local Permanent Engine")
 
 app.add_middleware(
     CORSMiddleware,
@@ -19,17 +18,13 @@ app.add_middleware(
 class QueryRequest(BaseModel):
     message: str
 
-def query_llama_model(user_prompt: str) -> str:
-    """Direct free Llama-3 API without DuckDuckGo dependency"""
+def query_local_ollama(user_prompt: str) -> str:
+    """Direct Local Ollama Llama-3 Engine (100% Permanent & Free)"""
     try:
-        url = "https://router.huggingface.co/hf-inference/v1/chat/completions"
+        url = "http://127.0.0.1:11434/api/generate"
         payload = json.dumps({
-            "model": "meta-llama/Llama-3.3-70B-Instruct",
-            "messages": [
-                {"role": "system", "content": "You are Lyra, a modern AI created by Muhammad Taqi. Answer quickly, concisely, and accurately."},
-                {"role": "user", "content": user_prompt}
-            ],
-            "max_tokens": 1000,
+            "model": "llama3.2:1b",  # Fast, lightweight & accurate model
+            "prompt": f"System: You are Lyra, a modern AI created by Muhammad Taqi. Be helpful and concise.\nUser: {user_prompt}\nLyra:",
             "stream": False
         }).encode('utf-8')
         
@@ -39,11 +34,11 @@ def query_llama_model(user_prompt: str) -> str:
             headers={'Content-Type': 'application/json'}
         )
         
-        with urllib.request.urlopen(req) as response:
+        with urllib.request.urlopen(req, timeout=60) as response:
             res_data = json.loads(response.read().decode('utf-8'))
-            return res_data['choices'][0]['message']['content']
+            return res_data.get("response", "No response generated.")
     except Exception as e:
-        return f"Llama Engine Response Error: {str(e)}"
+        return f"Local Engine Error: {str(e)}"
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
@@ -51,7 +46,7 @@ HTML_TEMPLATE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LYRA AI - Ultra Fast Llama-3.3</title>
+    <title>LYRA AI - Permanent Local Llama</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -69,8 +64,8 @@ HTML_TEMPLATE = """
             <h1 class="text-xl font-bold tracking-wider bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">LYRA AI</h1>
         </div>
         <div class="flex items-center gap-2">
-            <span class="text-xs font-semibold px-3 py-1 rounded-full bg-purple-500/10 text-purple-300 border border-purple-500/20">
-                Llama-3.3 Engine
+            <span class="text-xs font-semibold px-3 py-1 rounded-full bg-emerald-500/10 text-emerald-300 border border-emerald-500/20">
+                100% Local Permanent Model
             </span>
             <span class="text-xs font-semibold px-3 py-1 rounded-full bg-indigo-500/10 text-indigo-300 border border-indigo-500/20">
                 Created by Muhammad Taqi
@@ -78,17 +73,17 @@ HTML_TEMPLATE = """
         </div>
     </header>
 
-    <!-- Chat Container -->
+    <!-- Chat Box -->
     <main id="chat-box" class="flex-1 overflow-y-auto p-4 md:p-6 space-y-4 max-w-4xl w-full mx-auto">
         <div class="glass p-5 rounded-2xl max-w-[85%] border border-indigo-500/20 glow">
             <p class="text-xs text-indigo-400 font-semibold mb-1">LYRA</p>
             <p class="text-sm md:text-base leading-relaxed text-slate-200">
-                System Active! Main **Lyra** hoon, powered by **Llama-3.3-70B Engine**. Aap kya poochna chahte hain?
+                Hello! Main **Lyra** hoon. Mera AI model ab bilkul local chal raha hai bina kisi external API key ya rate limit ke. Aap kitni bhi chahein unlimited chatting kar sakte hain!
             </p>
         </div>
     </main>
 
-    <!-- Input Area -->
+    <!-- Input -->
     <footer class="p-4 max-w-4xl w-full mx-auto">
         <div class="glass p-2 rounded-2xl flex items-center gap-2 border border-white/10 glow">
             <input id="user-input" type="text" placeholder="Ask Lyra anything..." 
@@ -125,7 +120,7 @@ HTML_TEMPLATE = """
             chatBox.innerHTML += `
                 <div id="${loadingId}" class="glass p-4 rounded-2xl max-w-[85%] border border-white/5">
                     <p class="text-xs text-purple-400 font-semibold mb-1">LYRA</p>
-                    <p class="text-sm text-slate-400 animate-pulse">Llama Engine is thinking...</p>
+                    <p class="text-sm text-slate-400 animate-pulse">Lyra local engine is thinking...</p>
                 </div>
             `;
             chatBox.scrollTop = chatBox.scrollHeight;
@@ -150,7 +145,7 @@ HTML_TEMPLATE = """
                 chatBox.innerHTML += `
                     <div class="glass p-4 rounded-2xl max-w-[85%] border border-red-500/20">
                         <p class="text-xs text-red-400 font-semibold mb-1">ERROR</p>
-                        <p class="text-sm text-slate-300">Unable to reach Llama engine.</p>
+                        <p class="text-sm text-slate-300">Local model response error.</p>
                     </div>
                 `;
             }
@@ -168,7 +163,7 @@ async def get_ui():
 @app.post("/api/ask")
 async def ask_lyra(req: QueryRequest):
     try:
-        response = await asyncio.to_thread(query_llama_model, req.message)
+        response = await asyncio.to_thread(query_local_ollama, req.message)
         return {"response": response}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
