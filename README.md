@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://knights-atm-britney-graduate.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://supposed-relay-rice-apartments.trycloudflare.com)**
 
-* **Direct Link:** `https://knights-atm-britney-graduate.trycloudflare.com`
+* **Direct Link:** `https://supposed-relay-rice-apartments.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-26 09:38:48 UTC`
+* **Last Restarted:** `2026-09-26 13:58:30 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
