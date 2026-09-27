@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://socket-casting-round-missile.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://without-istanbul-cave-easter.trycloudflare.com)**
 
-* **Direct Link:** `https://socket-casting-round-missile.trycloudflare.com`
+* **Direct Link:** `https://without-istanbul-cave-easter.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-27 10:18:14 UTC`
+* **Last Restarted:** `2026-09-27 18:47:02 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
