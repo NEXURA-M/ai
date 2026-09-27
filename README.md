@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://without-istanbul-cave-easter.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://unit-authorities-producers-hawaiian.trycloudflare.com)**
 
-* **Direct Link:** `https://without-istanbul-cave-easter.trycloudflare.com`
+* **Direct Link:** `https://unit-authorities-producers-hawaiian.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-27 18:47:02 UTC`
+* **Last Restarted:** `2026-09-27 22:42:57 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
