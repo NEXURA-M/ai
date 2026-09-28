@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://unit-authorities-producers-hawaiian.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://alan-consortium-lodging-spent.trycloudflare.com)**
 
-* **Direct Link:** `https://unit-authorities-producers-hawaiian.trycloudflare.com`
+* **Direct Link:** `https://alan-consortium-lodging-spent.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-27 22:42:57 UTC`
+* **Last Restarted:** `2026-09-28 02:33:29 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
