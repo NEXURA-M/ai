@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://lbs-statewide-advisors-dating.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://cpu-landscape-repair-loving.trycloudflare.com)**
 
-* **Direct Link:** `https://lbs-statewide-advisors-dating.trycloudflare.com`
+* **Direct Link:** `https://cpu-landscape-repair-loving.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-28 11:21:33 UTC`
+* **Last Restarted:** `2026-09-28 20:57:07 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
