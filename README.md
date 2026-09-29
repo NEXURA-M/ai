@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://cult-powerseller-richards-import.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://citysearch-cancer-draws-ment.trycloudflare.com)**
 
-* **Direct Link:** `https://cult-powerseller-richards-import.trycloudflare.com`
+* **Direct Link:** `https://citysearch-cancer-draws-ment.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-29 03:15:40 UTC`
+* **Last Restarted:** `2026-09-29 11:00:06 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
