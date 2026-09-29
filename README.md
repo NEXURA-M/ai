@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://laboratories-beverly-assured-occasionally.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://bias-conversations-affordable-faq.trycloudflare.com)**
 
-* **Direct Link:** `https://laboratories-beverly-assured-occasionally.trycloudflare.com`
+* **Direct Link:** `https://bias-conversations-affordable-faq.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-29 19:44:09 UTC`
+* **Last Restarted:** `2026-09-29 23:17:14 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
