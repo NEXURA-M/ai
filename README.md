@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://citysearch-cancer-draws-ment.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://laboratories-beverly-assured-occasionally.trycloudflare.com)**
 
-* **Direct Link:** `https://citysearch-cancer-draws-ment.trycloudflare.com`
+* **Direct Link:** `https://laboratories-beverly-assured-occasionally.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-29 11:00:06 UTC`
+* **Last Restarted:** `2026-09-29 19:44:09 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
