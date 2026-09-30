@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://management-never-previews-cardiac.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://gis-luke-price-presence.trycloudflare.com)**
 
-* **Direct Link:** `https://management-never-previews-cardiac.trycloudflare.com`
+* **Direct Link:** `https://gis-luke-price-presence.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-09-30 10:49:54 UTC`
+* **Last Restarted:** `2026-09-30 19:45:06 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
