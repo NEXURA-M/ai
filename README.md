@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://pants-warcraft-aug-deals.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://garlic-occurs-surgical-mar.trycloudflare.com)**
 
-* **Direct Link:** `https://pants-warcraft-aug-deals.trycloudflare.com`
+* **Direct Link:** `https://garlic-occurs-surgical-mar.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-01 19:59:49 UTC`
+* **Last Restarted:** `2026-10-01 23:42:18 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
