@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://buy-airplane-wing-transactions.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://release-responses-individuals-techrepublic.trycloudflare.com)**
 
-* **Direct Link:** `https://buy-airplane-wing-transactions.trycloudflare.com`
+* **Direct Link:** `https://release-responses-individuals-techrepublic.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-02 19:41:12 UTC`
+* **Last Restarted:** `2026-10-02 23:26:19 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
