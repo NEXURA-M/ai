@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://garlic-occurs-surgical-mar.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://accordingly-portal-flip-cut.trycloudflare.com)**
 
-* **Direct Link:** `https://garlic-occurs-surgical-mar.trycloudflare.com`
+* **Direct Link:** `https://accordingly-portal-flip-cut.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-01 23:42:18 UTC`
+* **Last Restarted:** `2026-10-02 03:06:22 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
