@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://suspended-behavioral-maker-treaty.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://involved-numeric-introduced-combined.trycloudflare.com)**
 
-* **Direct Link:** `https://suspended-behavioral-maker-treaty.trycloudflare.com`
+* **Direct Link:** `https://involved-numeric-introduced-combined.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-03 18:26:32 UTC`
+* **Last Restarted:** `2026-10-03 22:33:16 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
