@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://release-responses-individuals-techrepublic.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://extensions-interested-kong-easy.trycloudflare.com)**
 
-* **Direct Link:** `https://release-responses-individuals-techrepublic.trycloudflare.com`
+* **Direct Link:** `https://extensions-interested-kong-easy.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-02 23:26:19 UTC`
+* **Last Restarted:** `2026-10-03 02:53:42 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
