@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://newbie-worm-spokesman-founder.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://retained-jacob-productive-consortium.trycloudflare.com)**
 
-* **Direct Link:** `https://newbie-worm-spokesman-founder.trycloudflare.com`
+* **Direct Link:** `https://retained-jacob-productive-consortium.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-05 11:57:02 UTC`
+* **Last Restarted:** `2026-10-05 21:45:59 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
