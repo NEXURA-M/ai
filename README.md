@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://specifics-royal-swim-purpose.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://newbie-worm-spokesman-founder.trycloudflare.com)**
 
-* **Direct Link:** `https://specifics-royal-swim-purpose.trycloudflare.com`
+* **Direct Link:** `https://newbie-worm-spokesman-founder.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-05 03:01:00 UTC`
+* **Last Restarted:** `2026-10-05 11:57:02 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
