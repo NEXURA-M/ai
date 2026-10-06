@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://gary-demographic-existed-recordings.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://ext-providers-ethics-condos.trycloudflare.com)**
 
-* **Direct Link:** `https://gary-demographic-existed-recordings.trycloudflare.com`
+* **Direct Link:** `https://ext-providers-ethics-condos.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-06 03:49:35 UTC`
+* **Last Restarted:** `2026-10-06 11:37:09 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
