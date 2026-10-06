@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://ext-providers-ethics-condos.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://federation-eleven-deeper-minute.trycloudflare.com)**
 
-* **Direct Link:** `https://ext-providers-ethics-condos.trycloudflare.com`
+* **Direct Link:** `https://federation-eleven-deeper-minute.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-06 11:37:09 UTC`
+* **Last Restarted:** `2026-10-06 19:56:21 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
