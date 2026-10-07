@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://apartments-protecting-photographer-styles.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://exams-protest-clan-jack.trycloudflare.com)**
 
-* **Direct Link:** `https://apartments-protecting-photographer-styles.trycloudflare.com`
+* **Direct Link:** `https://exams-protest-clan-jack.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-06 23:28:01 UTC`
+* **Last Restarted:** `2026-10-07 03:17:00 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
