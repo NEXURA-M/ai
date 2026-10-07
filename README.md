@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://scientist-luck-qualities-alone.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://minority-americans-copper-cons.trycloudflare.com)**
 
-* **Direct Link:** `https://scientist-luck-qualities-alone.trycloudflare.com`
+* **Direct Link:** `https://minority-americans-copper-cons.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-07 11:27:20 UTC`
+* **Last Restarted:** `2026-10-07 20:19:47 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
