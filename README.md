@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://minority-americans-copper-cons.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://dock-bbs-guarantees-gains.trycloudflare.com)**
 
-* **Direct Link:** `https://minority-americans-copper-cons.trycloudflare.com`
+* **Direct Link:** `https://dock-bbs-guarantees-gains.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-07 20:19:47 UTC`
+* **Last Restarted:** `2026-10-08 03:32:57 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
