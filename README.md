@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://fee-adjustments-done-residence.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://dealers-praise-runner-injuries.trycloudflare.com)**
 
-* **Direct Link:** `https://fee-adjustments-done-residence.trycloudflare.com`
+* **Direct Link:** `https://dealers-praise-runner-injuries.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-08 20:21:35 UTC`
+* **Last Restarted:** `2026-10-09 03:38:25 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
