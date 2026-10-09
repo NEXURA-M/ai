@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://describes-tide-thin-reed.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://prospects-scale-gates-acquired.trycloudflare.com)**
 
-* **Direct Link:** `https://describes-tide-thin-reed.trycloudflare.com`
+* **Direct Link:** `https://prospects-scale-gates-acquired.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-09 19:54:49 UTC`
+* **Last Restarted:** `2026-10-09 23:42:33 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
