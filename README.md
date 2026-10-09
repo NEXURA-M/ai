@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://aaron-ink-auburn-wichita.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://describes-tide-thin-reed.trycloudflare.com)**
 
-* **Direct Link:** `https://aaron-ink-auburn-wichita.trycloudflare.com`
+* **Direct Link:** `https://describes-tide-thin-reed.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-09 11:35:43 UTC`
+* **Last Restarted:** `2026-10-09 19:54:49 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
