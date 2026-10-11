@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://sunday-lyrics-unsubscribe-reference.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://identical-perl-specify-filename.trycloudflare.com)**
 
-* **Direct Link:** `https://sunday-lyrics-unsubscribe-reference.trycloudflare.com`
+* **Direct Link:** `https://identical-perl-specify-filename.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-10 23:06:33 UTC`
+* **Last Restarted:** `2026-10-11 02:52:18 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
