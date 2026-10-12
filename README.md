@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://digital-wing-extension-capability.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://collar-share-executed-supplies.trycloudflare.com)**
 
-* **Direct Link:** `https://digital-wing-extension-capability.trycloudflare.com`
+* **Direct Link:** `https://collar-share-executed-supplies.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-12 03:15:45 UTC`
+* **Last Restarted:** `2026-10-12 12:36:58 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
