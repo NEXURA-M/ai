@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://editorial-idaho-thomson-tunnel.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://digital-wing-extension-capability.trycloudflare.com)**
 
-* **Direct Link:** `https://editorial-idaho-thomson-tunnel.trycloudflare.com`
+* **Direct Link:** `https://digital-wing-extension-capability.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-11 23:19:43 UTC`
+* **Last Restarted:** `2026-10-12 03:15:45 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
