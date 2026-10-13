@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://basement-protocols-nightlife-angels.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://arrives-contained-continuing-acknowledge.trycloudflare.com)**
 
-* **Direct Link:** `https://basement-protocols-nightlife-angels.trycloudflare.com`
+* **Direct Link:** `https://arrives-contained-continuing-acknowledge.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-13 04:30:46 UTC`
+* **Last Restarted:** `2026-10-13 12:20:31 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
