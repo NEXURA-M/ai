@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://expenditure-blake-theology-sure.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://basement-protocols-nightlife-angels.trycloudflare.com)**
 
-* **Direct Link:** `https://expenditure-blake-theology-sure.trycloudflare.com`
+* **Direct Link:** `https://basement-protocols-nightlife-angels.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-12 22:19:40 UTC`
+* **Last Restarted:** `2026-10-13 04:30:46 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
