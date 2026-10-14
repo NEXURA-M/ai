@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://use-worldcat-tall-carries.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://eternal-labs-sanyo-discounts.trycloudflare.com)**
 
-* **Direct Link:** `https://use-worldcat-tall-carries.trycloudflare.com`
+* **Direct Link:** `https://eternal-labs-sanyo-discounts.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-14 14:49:05 UTC`
+* **Last Restarted:** `2026-10-14 19:04:56 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
