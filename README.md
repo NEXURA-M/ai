@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://analyses-vital-fat-parliamentary.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://use-worldcat-tall-carries.trycloudflare.com)**
 
-* **Direct Link:** `https://analyses-vital-fat-parliamentary.trycloudflare.com`
+* **Direct Link:** `https://use-worldcat-tall-carries.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-14 09:51:49 UTC`
+* **Last Restarted:** `2026-10-14 14:49:05 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
