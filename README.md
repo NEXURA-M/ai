@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://kids-app-billion-thinkpad.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://representation-norfolk-conversion-arrives.trycloudflare.com)**
 
-* **Direct Link:** `https://kids-app-billion-thinkpad.trycloudflare.com`
+* **Direct Link:** `https://representation-norfolk-conversion-arrives.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-13 20:26:49 UTC`
+* **Last Restarted:** `2026-10-14 02:40:56 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
