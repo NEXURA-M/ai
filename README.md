@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://campaign-disposition-cuisine-nutrition.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://colorado-deutsche-thunder-aware.trycloudflare.com)**
 
-* **Direct Link:** `https://campaign-disposition-cuisine-nutrition.trycloudflare.com`
+* **Direct Link:** `https://colorado-deutsche-thunder-aware.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-16 09:25:13 UTC`
+* **Last Restarted:** `2026-10-16 14:26:11 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
