@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://actual-print-revenue-dialogue.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://campaign-disposition-cuisine-nutrition.trycloudflare.com)**
 
-* **Direct Link:** `https://actual-print-revenue-dialogue.trycloudflare.com`
+* **Direct Link:** `https://campaign-disposition-cuisine-nutrition.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-16 02:14:29 UTC`
+* **Last Restarted:** `2026-10-16 09:25:13 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
