@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://mills-sitting-reconstruction-stretch.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://slowly-revision-jeffrey-mystery.trycloudflare.com)**
 
-* **Direct Link:** `https://mills-sitting-reconstruction-stretch.trycloudflare.com`
+* **Direct Link:** `https://slowly-revision-jeffrey-mystery.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-17 13:23:14 UTC`
+* **Last Restarted:** `2026-10-17 17:38:10 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
