@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://slowly-revision-jeffrey-mystery.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://female-immediately-outline-hawaii.trycloudflare.com)**
 
-* **Direct Link:** `https://slowly-revision-jeffrey-mystery.trycloudflare.com`
+* **Direct Link:** `https://female-immediately-outline-hawaii.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-17 17:38:10 UTC`
+* **Last Restarted:** `2026-10-17 21:52:57 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
