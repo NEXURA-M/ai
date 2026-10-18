@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://milton-wondering-geo-docs.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://sep-worth-blocked-discover.trycloudflare.com)**
 
-* **Direct Link:** `https://milton-wondering-geo-docs.trycloudflare.com`
+* **Direct Link:** `https://sep-worth-blocked-discover.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-18 17:40:54 UTC`
+* **Last Restarted:** `2026-10-18 22:03:51 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
