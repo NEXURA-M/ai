@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://carefully-kind-modem-zealand.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://regarded-geometry-panel-portal.trycloudflare.com)**
 
-* **Direct Link:** `https://carefully-kind-modem-zealand.trycloudflare.com`
+* **Direct Link:** `https://regarded-geometry-panel-portal.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-18 02:05:56 UTC`
+* **Last Restarted:** `2026-10-18 09:14:57 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
