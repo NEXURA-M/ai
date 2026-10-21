@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://accent-florence-dom-latter.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://collectors-policies-troy-mean.trycloudflare.com)**
 
-* **Direct Link:** `https://accent-florence-dom-latter.trycloudflare.com`
+* **Direct Link:** `https://collectors-policies-troy-mean.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-21 02:30:37 UTC`
+* **Last Restarted:** `2026-10-21 09:45:49 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
