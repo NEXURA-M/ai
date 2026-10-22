@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://actor-provisions-accordance-alexander.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://kernel-powerpoint-recreation-possess.trycloudflare.com)**
 
-* **Direct Link:** `https://actor-provisions-accordance-alexander.trycloudflare.com`
+* **Direct Link:** `https://kernel-powerpoint-recreation-possess.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-22 14:46:53 UTC`
+* **Last Restarted:** `2026-10-22 19:02:03 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
