@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://candle-unsubscribe-trainers-encouraged.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://releases-strengths-screenshots-subject.trycloudflare.com)**
 
-* **Direct Link:** `https://candle-unsubscribe-trainers-encouraged.trycloudflare.com`
+* **Direct Link:** `https://releases-strengths-screenshots-subject.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-23 09:42:27 UTC`
+* **Last Restarted:** `2026-10-23 14:33:13 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
