@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://might-trader-away-pursue.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://sailing-solo-sandwich-individually.trycloudflare.com)**
 
-* **Direct Link:** `https://might-trader-away-pursue.trycloudflare.com`
+* **Direct Link:** `https://sailing-solo-sandwich-individually.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-22 22:53:44 UTC`
+* **Last Restarted:** `2026-10-23 02:32:28 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
