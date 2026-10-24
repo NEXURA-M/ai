@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://toward-afterwards-into-adjustments.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://words-turbo-protocol-critics.trycloudflare.com)**
 
-* **Direct Link:** `https://toward-afterwards-into-adjustments.trycloudflare.com`
+* **Direct Link:** `https://words-turbo-protocol-critics.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-24 09:14:05 UTC`
+* **Last Restarted:** `2026-10-24 13:44:38 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
