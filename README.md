@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://portion-comment-citation-occasionally.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://non-lighter-workplace-have.trycloudflare.com)**
 
-* **Direct Link:** `https://portion-comment-citation-occasionally.trycloudflare.com`
+* **Direct Link:** `https://non-lighter-workplace-have.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-23 18:48:45 UTC`
+* **Last Restarted:** `2026-10-24 02:29:53 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
