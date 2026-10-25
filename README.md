@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://responsibilities-threaded-timely-dad.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://demographic-toolkit-bob-mentioned.trycloudflare.com)**
 
-* **Direct Link:** `https://responsibilities-threaded-timely-dad.trycloudflare.com`
+* **Direct Link:** `https://demographic-toolkit-bob-mentioned.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-24 22:07:41 UTC`
+* **Last Restarted:** `2026-10-25 02:17:30 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
