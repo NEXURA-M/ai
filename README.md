@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://sailing-installation-remove-seeking.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://autos-scales-centres-mailto.trycloudflare.com)**
 
-* **Direct Link:** `https://sailing-installation-remove-seeking.trycloudflare.com`
+* **Direct Link:** `https://autos-scales-centres-mailto.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-25 17:59:26 UTC`
+* **Last Restarted:** `2026-10-25 22:11:03 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
