@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://holder-reliance-titanium-boundary.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://assess-unwrap-remark-organized.trycloudflare.com)**
 
-* **Direct Link:** `https://holder-reliance-titanium-boundary.trycloudflare.com`
+* **Direct Link:** `https://assess-unwrap-remark-organized.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-25 09:30:50 UTC`
+* **Last Restarted:** `2026-10-25 14:01:38 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
