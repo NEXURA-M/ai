@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://toolbar-experience-elevation-adapters.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://develops-policies-run-research.trycloudflare.com)**
 
-* **Direct Link:** `https://toolbar-experience-elevation-adapters.trycloudflare.com`
+* **Direct Link:** `https://develops-policies-run-research.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-26 02:17:28 UTC`
+* **Last Restarted:** `2026-10-26 10:41:51 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
