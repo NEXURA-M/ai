@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://nascar-nest-excellence-agencies.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://full-inch-colin-you.trycloudflare.com)**
 
-* **Direct Link:** `https://nascar-nest-excellence-agencies.trycloudflare.com`
+* **Direct Link:** `https://full-inch-colin-you.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-26 20:15:18 UTC`
+* **Last Restarted:** `2026-10-27 02:53:20 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
