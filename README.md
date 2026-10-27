@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://full-inch-colin-you.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://filed-uses-kitchen-peaceful.trycloudflare.com)**
 
-* **Direct Link:** `https://full-inch-colin-you.trycloudflare.com`
+* **Direct Link:** `https://filed-uses-kitchen-peaceful.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-27 02:53:20 UTC`
+* **Last Restarted:** `2026-10-27 10:08:30 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
