@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://filed-uses-kitchen-peaceful.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://pond-employees-printed-journalist.trycloudflare.com)**
 
-* **Direct Link:** `https://filed-uses-kitchen-peaceful.trycloudflare.com`
+* **Direct Link:** `https://pond-employees-printed-journalist.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-27 10:08:30 UTC`
+* **Last Restarted:** `2026-10-27 19:47:55 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
