@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://pond-employees-printed-journalist.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://dentists-waves-legislative-planes.trycloudflare.com)**
 
-* **Direct Link:** `https://pond-employees-printed-journalist.trycloudflare.com`
+* **Direct Link:** `https://dentists-waves-legislative-planes.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-27 19:47:55 UTC`
+* **Last Restarted:** `2026-10-27 23:21:20 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
