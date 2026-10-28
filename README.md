@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://dentists-waves-legislative-planes.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://abstract-canberra-culture-viruses.trycloudflare.com)**
 
-* **Direct Link:** `https://dentists-waves-legislative-planes.trycloudflare.com`
+* **Direct Link:** `https://abstract-canberra-culture-viruses.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-27 23:21:20 UTC`
+* **Last Restarted:** `2026-10-28 03:01:01 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
