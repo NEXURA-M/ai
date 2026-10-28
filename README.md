@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://abstract-canberra-culture-viruses.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://explicit-vitamin-prefers-podcasts.trycloudflare.com)**
 
-* **Direct Link:** `https://abstract-canberra-culture-viruses.trycloudflare.com`
+* **Direct Link:** `https://explicit-vitamin-prefers-podcasts.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-28 03:01:01 UTC`
+* **Last Restarted:** `2026-10-28 10:55:13 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
