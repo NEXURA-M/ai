@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://roots-returning-gale-findarticles.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://marvel-heading-paxil-production.trycloudflare.com)**
 
-* **Direct Link:** `https://roots-returning-gale-findarticles.trycloudflare.com`
+* **Direct Link:** `https://marvel-heading-paxil-production.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-28 19:59:36 UTC`
+* **Last Restarted:** `2026-10-28 23:54:31 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
