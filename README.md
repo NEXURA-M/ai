@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://equipped-discounts-phrases-scale.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://welfare-bluetooth-win-jvc.trycloudflare.com)**
 
-* **Direct Link:** `https://equipped-discounts-phrases-scale.trycloudflare.com`
+* **Direct Link:** `https://welfare-bluetooth-win-jvc.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-30 11:07:22 UTC`
+* **Last Restarted:** `2026-10-30 19:47:55 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
