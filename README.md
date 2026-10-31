@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://presentations-del-legendary-sail.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://flowers-lanka-img-daily.trycloudflare.com)**
 
-* **Direct Link:** `https://presentations-del-legendary-sail.trycloudflare.com`
+* **Direct Link:** `https://flowers-lanka-img-daily.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-31 03:15:06 UTC`
+* **Last Restarted:** `2026-10-31 10:40:39 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
