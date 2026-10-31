@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://specialty-fired-changing-socks.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://presentations-del-legendary-sail.trycloudflare.com)**
 
-* **Direct Link:** `https://specialty-fired-changing-socks.trycloudflare.com`
+* **Direct Link:** `https://presentations-del-legendary-sail.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-10-30 23:23:05 UTC`
+* **Last Restarted:** `2026-10-31 03:15:06 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
