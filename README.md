@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://msgstr-fired-film-rip.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://filter-josh-jane-reproduction.trycloudflare.com)**
 
-* **Direct Link:** `https://msgstr-fired-film-rip.trycloudflare.com`
+* **Direct Link:** `https://filter-josh-jane-reproduction.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-01 23:14:31 UTC`
+* **Last Restarted:** `2026-11-02 03:22:07 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
