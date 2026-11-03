@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://exemption-personal-tires-organisms.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://cabinet-glad-edge-spring.trycloudflare.com)**
 
-* **Direct Link:** `https://exemption-personal-tires-organisms.trycloudflare.com`
+* **Direct Link:** `https://cabinet-glad-edge-spring.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-03 12:31:04 UTC`
+* **Last Restarted:** `2026-11-03 20:43:27 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
