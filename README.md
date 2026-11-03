@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://besides-wrap-deadline-mumbai.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://controlling-audio-rubber-collection.trycloudflare.com)**
 
-* **Direct Link:** `https://besides-wrap-deadline-mumbai.trycloudflare.com`
+* **Direct Link:** `https://controlling-audio-rubber-collection.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-02 22:58:00 UTC`
+* **Last Restarted:** `2026-11-03 04:33:33 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
