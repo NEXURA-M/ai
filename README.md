@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://blvd-prime-michael-contacts.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://apparent-entertainment-tiffany-infants.trycloudflare.com)**
 
-* **Direct Link:** `https://blvd-prime-michael-contacts.trycloudflare.com`
+* **Direct Link:** `https://apparent-entertainment-tiffany-infants.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-04 03:53:26 UTC`
+* **Last Restarted:** `2026-11-04 12:40:48 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
