@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://edward-solar-assistant-wit.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://lately-wal-treasurer-super.trycloudflare.com)**
 
-* **Direct Link:** `https://edward-solar-assistant-wit.trycloudflare.com`
+* **Direct Link:** `https://lately-wal-treasurer-super.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-05 04:12:45 UTC`
+* **Last Restarted:** `2026-11-05 12:53:02 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
