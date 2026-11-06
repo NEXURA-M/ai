@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://honey-surface-chosen-asin.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://virtue-diameter-plastics-wines.trycloudflare.com)**
 
-* **Direct Link:** `https://honey-surface-chosen-asin.trycloudflare.com`
+* **Direct Link:** `https://virtue-diameter-plastics-wines.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-05 21:18:43 UTC`
+* **Last Restarted:** `2026-11-06 04:10:32 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
