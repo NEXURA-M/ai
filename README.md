@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://erp-auckland-myth-screenshot.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://bold-indirect-discussed-massive.trycloudflare.com)**
 
-* **Direct Link:** `https://erp-auckland-myth-screenshot.trycloudflare.com`
+* **Direct Link:** `https://bold-indirect-discussed-massive.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-06 20:40:10 UTC`
+* **Last Restarted:** `2026-11-07 03:44:19 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
