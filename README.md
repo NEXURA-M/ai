@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://beats-joel-balloon-knight.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://beach-athletics-little-connection.trycloudflare.com)**
 
-* **Direct Link:** `https://beats-joel-balloon-knight.trycloudflare.com`
+* **Direct Link:** `https://beach-athletics-little-connection.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-08 03:21:19 UTC`
+* **Last Restarted:** `2026-11-08 11:37:23 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
