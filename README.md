@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://beach-athletics-little-connection.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://zone-linked-brooklyn-lcd.trycloudflare.com)**
 
-* **Direct Link:** `https://beach-athletics-little-connection.trycloudflare.com`
+* **Direct Link:** `https://zone-linked-brooklyn-lcd.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-08 11:37:23 UTC`
+* **Last Restarted:** `2026-11-08 19:15:21 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
