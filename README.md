@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://tumor-crossword-pontiac-lifestyle.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://abstracts-yeah-reprints-extend.trycloudflare.com)**
 
-* **Direct Link:** `https://tumor-crossword-pontiac-lifestyle.trycloudflare.com`
+* **Direct Link:** `https://abstracts-yeah-reprints-extend.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-09 23:39:53 UTC`
+* **Last Restarted:** `2026-11-10 05:12:01 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
