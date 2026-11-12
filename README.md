@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://stadium-murray-solomon-niagara.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://writings-notes-breeding-bass.trycloudflare.com)**
 
-* **Direct Link:** `https://stadium-murray-solomon-niagara.trycloudflare.com`
+* **Direct Link:** `https://writings-notes-breeding-bass.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-12 13:28:07 UTC`
+* **Last Restarted:** `2026-11-12 21:40:03 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
