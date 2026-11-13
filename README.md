@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://graphical-electric-vital-sign.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://navy-preferences-chapter-zip.trycloudflare.com)**
 
-* **Direct Link:** `https://graphical-electric-vital-sign.trycloudflare.com`
+* **Direct Link:** `https://navy-preferences-chapter-zip.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-13 12:45:12 UTC`
+* **Last Restarted:** `2026-11-13 21:06:25 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
