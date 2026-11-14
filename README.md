@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://broad-buf-fired-cant.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://delivered-mit-facing-generator.trycloudflare.com)**
 
-* **Direct Link:** `https://broad-buf-fired-cant.trycloudflare.com`
+* **Direct Link:** `https://delivered-mit-facing-generator.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-14 04:01:29 UTC`
+* **Last Restarted:** `2026-11-14 11:52:43 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
