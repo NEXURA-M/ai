@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://sim-chicken-interview-reflect.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://yearly-hockey-character-basin.trycloudflare.com)**
 
-* **Direct Link:** `https://sim-chicken-interview-reflect.trycloudflare.com`
+* **Direct Link:** `https://yearly-hockey-character-basin.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-16 03:48:47 UTC`
+* **Last Restarted:** `2026-11-16 13:16:30 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
