@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://heading-alignment-slideshow-custody.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://sim-chicken-interview-reflect.trycloudflare.com)**
 
-* **Direct Link:** `https://heading-alignment-slideshow-custody.trycloudflare.com`
+* **Direct Link:** `https://sim-chicken-interview-reflect.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-15 20:03:15 UTC`
+* **Last Restarted:** `2026-11-16 03:48:47 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
