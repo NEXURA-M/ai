@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://yearly-hockey-character-basin.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://equations-racial-childrens-nicholas.trycloudflare.com)**
 
-* **Direct Link:** `https://yearly-hockey-character-basin.trycloudflare.com`
+* **Direct Link:** `https://equations-racial-childrens-nicholas.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-16 13:16:30 UTC`
+* **Last Restarted:** `2026-11-16 23:36:18 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
