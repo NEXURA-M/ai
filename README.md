@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://phones-breaking-offers-promotes.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://ancient-readers-podcast-restored.trycloudflare.com)**
 
-* **Direct Link:** `https://phones-breaking-offers-promotes.trycloudflare.com`
+* **Direct Link:** `https://ancient-readers-podcast-restored.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-17 05:42:49 UTC`
+* **Last Restarted:** `2026-11-17 18:53:26 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
