@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://legislative-gulf-depend-eventually.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://namely-advise-poster-mating.trycloudflare.com)**
 
-* **Direct Link:** `https://legislative-gulf-depend-eventually.trycloudflare.com`
+* **Direct Link:** `https://namely-advise-poster-mating.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-18 01:58:15 UTC`
+* **Last Restarted:** `2026-11-18 13:35:28 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
