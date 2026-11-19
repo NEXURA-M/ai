@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://postcard-claimed-encourages-las.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://statewide-once-suitable-locator.trycloudflare.com)**
 
-* **Direct Link:** `https://postcard-claimed-encourages-las.trycloudflare.com`
+* **Direct Link:** `https://statewide-once-suitable-locator.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-19 14:11:10 UTC`
+* **Last Restarted:** `2026-11-19 22:31:38 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
