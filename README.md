@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://statewide-once-suitable-locator.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://pasta-described-claire-smtp.trycloudflare.com)**
 
-* **Direct Link:** `https://statewide-once-suitable-locator.trycloudflare.com`
+* **Direct Link:** `https://pasta-described-claire-smtp.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-19 22:31:38 UTC`
+* **Last Restarted:** `2026-11-20 04:52:23 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
