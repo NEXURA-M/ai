@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://wednesday-convert-repeat-conversation.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://reload-package-monthly-crimes.trycloudflare.com)**
 
-* **Direct Link:** `https://wednesday-convert-repeat-conversation.trycloudflare.com`
+* **Direct Link:** `https://reload-package-monthly-crimes.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-20 13:44:28 UTC`
+* **Last Restarted:** `2026-11-20 22:04:18 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
