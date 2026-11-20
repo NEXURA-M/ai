@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://pasta-described-claire-smtp.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://wednesday-convert-repeat-conversation.trycloudflare.com)**
 
-* **Direct Link:** `https://pasta-described-claire-smtp.trycloudflare.com`
+* **Direct Link:** `https://wednesday-convert-repeat-conversation.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-20 04:52:23 UTC`
+* **Last Restarted:** `2026-11-20 13:44:28 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
