@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://reload-package-monthly-crimes.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://stack-residential-cognitive-utilize.trycloudflare.com)**
 
-* **Direct Link:** `https://reload-package-monthly-crimes.trycloudflare.com`
+* **Direct Link:** `https://stack-residential-cognitive-utilize.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-20 22:04:18 UTC`
+* **Last Restarted:** `2026-11-21 04:46:57 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
