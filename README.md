@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 Live URL (Auto-Updated):
-👉 **[Click Here to Open Lyra AI](https://stack-residential-cognitive-utilize.trycloudflare.com)**
+👉 **[Click Here to Open Lyra AI](https://payments-samba-affected-ebooks.trycloudflare.com)**
 
-* **Direct Link:** `https://stack-residential-cognitive-utilize.trycloudflare.com`
+* **Direct Link:** `https://payments-samba-affected-ebooks.trycloudflare.com`
 * **Engine:** `Local Ollama Llama 3.2`
-* **Last Restarted:** `2026-11-21 04:46:57 UTC`
+* **Last Restarted:** `2026-11-21 13:09:55 UTC`
 * **Status:** 🟢 Active (100% Free & Permanent)
 
 ---
